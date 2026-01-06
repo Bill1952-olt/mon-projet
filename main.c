@@ -20,6 +20,6 @@ srand(time(NULL));
         printf("Heure : %s | Température : %.2f°C\n", buffer, temperature);
 
         sleep_sec(1);
-   /* temps et l'heure*/
+   /* temps et l'heure ****/
 return 0;
 }
